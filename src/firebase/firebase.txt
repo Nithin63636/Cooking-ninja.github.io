@@ -1,0 +1,9 @@
+npm install firebase@8.5  // installl this first
+log in firestore.google,com
+create a database under frestore  // donot add enable anything
+give mumbai as location
+create collection , give auto-id for documents create your data in the data field with adding title , and other things
+come to the home , on the page cliclk </> button which says create app give it a name, click on go to console
+press apps on the home page , just below big text .. scroll down to find SDK setup and configuration
+and press config, 
+copy the config code 
