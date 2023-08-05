@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cooking-ninja.github.io/static/css/main.9992d6dd.chunk.css",
+    "main.js": "/Cooking-ninja.github.io/static/js/main.e974253e.chunk.js",
+    "main.js.map": "/Cooking-ninja.github.io/static/js/main.e974253e.chunk.js.map",
+    "runtime-main.js": "/Cooking-ninja.github.io/static/js/runtime-main.d131efaf.js",
+    "runtime-main.js.map": "/Cooking-ninja.github.io/static/js/runtime-main.d131efaf.js.map",
+    "static/js/2.0810dac2.chunk.js": "/Cooking-ninja.github.io/static/js/2.0810dac2.chunk.js",
+    "static/js/2.0810dac2.chunk.js.map": "/Cooking-ninja.github.io/static/js/2.0810dac2.chunk.js.map",
+    "index.html": "/Cooking-ninja.github.io/index.html",
+    "static/css/main.9992d6dd.chunk.css.map": "/Cooking-ninja.github.io/static/css/main.9992d6dd.chunk.css.map",
+    "static/js/2.0810dac2.chunk.js.LICENSE.txt": "/Cooking-ninja.github.io/static/js/2.0810dac2.chunk.js.LICENSE.txt",
+    "static/media/Trashcan.84f8f620.svg": "/Cooking-ninja.github.io/static/media/Trashcan.84f8f620.svg",
+    "static/media/mode-icon.651cf792.svg": "/Cooking-ninja.github.io/static/media/mode-icon.651cf792.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d131efaf.js",
+    "static/js/2.0810dac2.chunk.js",
+    "static/css/main.9992d6dd.chunk.css",
+    "static/js/main.e974253e.chunk.js"
+  ]
+}
